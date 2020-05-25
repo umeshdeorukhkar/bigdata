@@ -1,0 +1,10 @@
+eclipse
+sbt eclipse
+eclipse;
+eclipse:
+exit
+eclipse
+exit
+eclipse
+test
+package

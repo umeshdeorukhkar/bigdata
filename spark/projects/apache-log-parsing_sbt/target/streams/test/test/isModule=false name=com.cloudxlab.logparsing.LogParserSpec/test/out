@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mLogParserSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mextractIP[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Extract IP Address[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcontainsIP[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Check if IP exists in the log line[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCLASSA[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Return true if class is A[0m[0m
